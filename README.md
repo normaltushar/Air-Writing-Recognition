@@ -7,7 +7,7 @@ Air Writing Recognition ✍️ - Real-time finger writing recognition using webc
 
 A real-time system that recognizes characters written in the air using finger movements. Captures motion via webcam, processes hand landmarks with MediaPipe, and recognizes characters using a CNN model trained on EMNIST dataset.
 
-![Demo](demo.gif) *(Replace with actual demo GIF)*
+
 
 ## Features ✨
 
@@ -18,9 +18,3 @@ A real-time system that recognizes characters written in the air using finger mo
 - ⚡ Optimized for performance (15-30 FPS)
 - ⌨️ Keyboard fallback controls
 
-## Installation ⚙️
-
-1. **Clone repository**:
-```bash
-git clone https://github.com/yourusername/air-writing-recognition.git
-cd air-writing-recognition
